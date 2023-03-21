@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+ <meta charset="utf-8" />
+<title>MCPatch Indonesia: Online</title>
+<meta http-equiv="refresh" content="60">
+ <meta name="MCPatch Indonesia" content="PHP script to count and show the number of online users and visitors" />
+ <meta name="MCPatch Indonesia" content="online users, online visitors" />
+</head>
+<body>
+
+<!-- Includes the script ("usersontxt.php", or "usersmysql.php") -->
+<script type="text/javascript" src="usersontxt.php?uvon=showon"></script>
+<!--
+    <script type="text/javascript" src="usersmysql.php?uvon=showon"></script>
+-->
+</body>
+</html>
+
