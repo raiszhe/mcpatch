@@ -1,6 +1,0 @@
-\MC.rar,7383472
-\MCPatch.exe,46159962
-\MCPatch.dat,2371552
-\MCPatch.dll,4469726
-\MCServer.bin,4662257
-\MCServer.key,4498649
