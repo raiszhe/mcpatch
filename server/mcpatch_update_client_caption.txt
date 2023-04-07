@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updating... [MCLauncher.exe] (Ver 2.0.7)
+=======
+Updating... [MCLauncher.exe] (Ver 2.0.6)
+>>>>>>> 5b91f264f294282f49ddcad82d9165f9e57ece15
